@@ -6,4 +6,5 @@ fn main() {
     ch1::testcase_list();
     ch1::format();
     println!("第二章: 原生类型");
+    ch2::tuples();
 }
